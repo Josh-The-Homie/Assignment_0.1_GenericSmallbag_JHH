@@ -1,4 +1,4 @@
-
+//Main application for the program.
 public class Application {
 
 	public static void main(String[] args) {
@@ -16,6 +16,6 @@ public class Application {
 		// Add Item2 to Smallbag1 and print its value
 		Smallbag1.setItem(Item2);
 		System.out.println(Smallbag1.getItem().getE());
-	}
+	}//end main
 
-}
+}//end Application
